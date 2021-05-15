@@ -4,7 +4,7 @@ import java.util.List;
 
 public abstract class player {
 
-    String description = "Unknown Beverage";
+    String description = "Unknown Player";
 
     List<String> skills;
 
